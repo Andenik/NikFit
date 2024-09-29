@@ -1,3 +1,5 @@
+
+# Função que calcula o peso que a pessoa deve perder por semana para chegar ao peso desejado
 def calcula_peso():
     peso_atual = float(input("Digite o seu peso atual: "))
     peso_desejado = float(input("Digite o peso que deseja alcançar: "))
